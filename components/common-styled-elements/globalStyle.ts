@@ -21,6 +21,17 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     height: 100%;
   }
+  img {
+    max-width: 100%;
+  }
+  a {
+    text-decoration: none;
+    color: ${props => props.theme.links.color};
+    &:hover {
+      color: ${props => props.theme.links.hoverColor};
+    }
+    cursor: pointer;
+  }
 `
 
 export default GlobalStyle

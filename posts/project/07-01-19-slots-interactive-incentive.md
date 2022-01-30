@@ -14,8 +14,6 @@ Together with another teammate, who worked on the styling and layout of the cust
 <img srcSet='/img/summer-spin-s.png 500w, /img/summer-spin-m.png 800w, /img/summer-spin-l.png 1200w' alt='Image of the frontend' />
 <p>The competiton took the form of a slot machine. Travel agents who have made bookings with us for their customers could enter a booking reference, spin the slot and get a win or loss result.</p>
 <p>Winners would be notified of their prize once they had chosen whether they wanted to gamble it for a chance of a bigger, better prize or take their booty as it currently was. Contact details would then be collected so the prizes could be sent.</p>
-<p>Being a slot machine, this project involved a bit of animation with JS and CSS!</p>
-<video fillContainer=1 srcSet='{ "500": "/video/slots-s.mp4", "800": "/video/slots-m.mp4"}' controls=1 loop=1 autoPlay=1></video>
 <h3>Front end challenges</h3>
 <ul>
 <li>Making requests to the back end service and updating the UI based on responses</li>
