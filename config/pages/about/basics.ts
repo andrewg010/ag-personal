@@ -34,6 +34,7 @@ const settings: IntroductionSettings = {
   copy: `<p>My passion for development around web technologies emerged when I was just starting secondary school. I learned the ways of HTML and CSS back then and this has given me the knowledge and understanding that I draw upon today to find and implement practical solutions.<p>
   <p>I am now on a permanent career path which is taking me deep into the world of web apps and the tech stacks that back them up. I've had experience working in agile teams and I'm constantly looking to expand my knowledge and learn new stuff. My area of absolute expertise lies in the world of React. I am very capable and constantly developing my knowledge of the technology that drives information to the browser as well as cloud computing options such as AWS and Google Cloud.</p>
   <p>I'm a proven leader and responsible individual. My career has taken me in different directions, from managing and leading a retail team to a brief stint teaching and coaching. All of this has given me critical skills in organisation and being part of a team.</p>
+  <p>I'm now beginning to lead the people I work with in the implementation of software projects. We are working on breaking up a monolithic codebase for a 'scale up' company both on the front and the back end.</p>
   `
 }
 

@@ -12,6 +12,10 @@ const settings: InterestsSettings = {
   titleText: 'Other things I like to do',
   interests: [
     {
+      name: 'English Wine',
+      copy: `<p>While I'm no master of wine or expert in any way. I'm super passionate about the emerging 'new world' wines that are being produced here in England, especially in my home county of Kent. How better way to celebrate the area I live in than drinking a spot of Kentish bubbles or visiting a local vineyard? Support local!</p>`
+    },
+    {
       name: 'Web Development',
       copy: '<p>Even though this is my job, it is also a passion and I devote hours of time to finding out about new tech, expanding my horizons and the skills I can bring to my work and the people I work with. I feel like you can never be knowledgeable enough about the tech surrounding web apps and I strive to constantly improve and learn, refining my skills along the way.</p>'
     },

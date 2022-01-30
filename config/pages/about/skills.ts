@@ -99,6 +99,18 @@ const settings: SkillSettings = {
       name: 'SEO',
       competency: 20
     },
+    {
+      name: 'Serverless',
+      competency: 20
+    },
+    {
+      name: 'Git',
+      competency: 20
+    },
+    {
+      name: 'Github actions',
+      competency: 20
+    },
   ]
 }
 

@@ -16,8 +16,6 @@ into a prize draw to win some extras for their next holiday (airport hotel, loun
 <p>Different parts of the image can be clicked, bringing up a popup asking for the name of the company that part of the image represents.
 After successfully guessing, the part of the image clicked turns grey to show that the user has correctly guessed that part.
 I implemented a progress bar for user feedback.</p>
-<p>Want to see this in action? Take a look below!</p>
-<video fillContainer=1 srcSet='{ "500": "/video/birthdays.mp4", "800": "/video/birthdayl.mp4"}' controls=1 loop=1 autoPlay=1></video>
 <p>A user's progress was saved, they could come back later and restore their progress thanks to browser local storage</p>
 <img srcSet='/img/birthday-retry-s.png 500w, /img/birthday-retry-m.png 800w, /img/birthday-retry-l.png 1200w' alt='Image of recovering the birthday game after refresh' />
 <p>Submissions were sent to a purpose built microservice to store entries in a MySQL database. 

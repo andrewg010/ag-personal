@@ -27,9 +27,14 @@ const settings: WorkSettings = {
           dates: 'September 2019 - Current',
           copy: `<p>Working on full stack React / Node / Typescript / ReactNative stack with PostgreSQL and MongoDB.</p>
           <p>Projects of note</p>
-          <p>Helping to break a monolith into separate services by building a new service to handle loyalty and promotions</p>
+          <p>Helping to break a monolith into separate services by building a new service to handle loyalty and promotions. Splitting up the frontend into multiple microfrontends.</p>
           <p>Building a new promotions centre UI to allow promotions to be created and edited</p>
-          <p>Migration of users from separate tables in SQL db to a single table with roles and permissions attached</p>`
+          <p>Migration of users from separate tables in SQL db to a single table with roles and permissions attached</p>
+          <p>Migration of resources between AWS regions</p>
+          <p>Implementation of an in house UI library</p>
+          <p>Implementation of 3DS payment</p>
+          <p>Optimising page performance by breaking out the pages requiring SEO from a SPA and statically generating them.</p>
+          `
         }
       ]
     },
