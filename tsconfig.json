@@ -2,7 +2,7 @@
   "compilerOptions": {
     "typeRoots": [
       "node_modules/@types",
-      "@types",
+      "@types"
     ],
     "target": "es5",
     "lib": [
@@ -29,14 +29,17 @@
     "baseUrl": ".",
     "allowSyntheticDefaultImports": true,
     "paths": {
-      "~/*": ["./*"]
-    }
+      "~/*": [
+        "./*"
+      ]
+    },
+    "incremental": true
   },
   "exclude": [
     "node_modules",
-    "dist", 
-    ".next", 
-    "out", 
+    "dist",
+    ".next",
+    "out",
     "next.config.js"
   ],
   "include": [
