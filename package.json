@@ -17,9 +17,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "1.2.35",
-    "@fortawesome/free-solid-svg-icons": "5.15.3",
-    "@fortawesome/react-fontawesome": "0.1.14",
+    "@fortawesome/fontawesome-svg-core": "1.2.36",
+    "@fortawesome/free-solid-svg-icons": "5.15.4",
+    "@fortawesome/react-fontawesome": "0.2.0",
     "cross-env": "7.0.3",
     "find-root": "1.1.0",
     "glob": "7.2.0",
@@ -34,7 +34,7 @@
     "styled-components": "5.3.3"
   },
   "devDependencies": {
-    "@fortawesome/free-brands-svg-icons": "5.15.3",
+    "@fortawesome/free-brands-svg-icons": "5.15.4",
     "@types/find-root": "1.1.2",
     "@types/glob": "7.2.0",
     "@types/node": "17.0.13",
